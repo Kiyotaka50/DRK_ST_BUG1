@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "+18294280295"
+global.ownername = "𓄂⍣⃝✮͢≛⃝Ҝ丨ㄚㄖㄒ卂Ҝ卂🎭✮⃝"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
-global.ownernumber = '50931461936'  //creator number
+global.ownernumber = '+18294280295'  //creator number
 global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.author = '𓄂⍣⃝✮͢≛⃝Ҝ丨ㄚㄖㄒ卂Ҝ卂🎭✮⃝'
 
 //console view/theme
 global.themeemoji = '🗾'
@@ -27,7 +27,7 @@ global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
