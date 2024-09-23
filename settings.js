@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+18294280295"
-global.ownername = "𓄂⍣⃝✮͢≛⃝Ҝ丨ㄚㄖㄒ卂Ҝ卂🎭✮⃝"
+global.ownernomer = "+50935334166"
+global.ownername = "𓄂⍣⃝𝐆𝚯𝐃𝐃𝚵𝐒𝐒✮͢≛⃝ 𝐋𝚰𝐋𝚰𝚻𝚮𝄟✮⃝💕"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
-global.ownernumber = '+18294280295'  //creator number
+global.ownernumber = '+50935334166'  //creator number
 global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𓄂⍣⃝✮͢≛⃝Ҝ丨ㄚㄖㄒ卂Ҝ卂🎭✮⃝'
+global.author = '𓄂⍣⃝𝐆𝚯𝐃𝐃𝚵𝐒𝐒✮͢≛⃝ 𝐋𝚰𝐋𝚰𝚻𝚮𝄟✮⃝💕'
 
 //console view/theme
 global.themeemoji = '🗾'
@@ -27,13 +27,13 @@ global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
